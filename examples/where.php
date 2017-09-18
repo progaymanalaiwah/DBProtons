@@ -38,7 +38,7 @@
         ->getAll();
 
     $result = $DB->getAll('users');
-    Query : SELECT username,userID FROM users  WHERE ( password = 123 AND userID > 10  ?  )   
+    Query : SELECT username,userID FROM users  WHERE ( password = 123 AND userID > 10   )   
 
 
     $DB->whereNot('users',array('ayman','alaiwa'))
