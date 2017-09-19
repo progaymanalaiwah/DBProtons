@@ -5,7 +5,7 @@ It helps you handle MySQL databases where you do not have to write any query you
 
 ## Tbale Content
 
-### The Functions Used To Fetch Data From Datapase
+### The functions used to fetch data from datapase
 
   * select
   * form
@@ -22,7 +22,7 @@ It helps you handle MySQL databases where you do not have to write any query you
   * like
   * notLike
   
-### The Functions Used To Add Where To Query 
+###  functions used to Add where to Query it functions used with select , updaate and delete 
 
   * where
   * whereNot
@@ -35,5 +35,13 @@ It helps you handle MySQL databases where you do not have to write any query you
   * groupStartAnd
   * groupStartOr
   
-<h3>Not</h3> : it functions Used with Query Select , update and delete <br>
+### Functions insert data to database
 
+ * insert
+ * insertArray
+ * lastInsertId
+ 
+### Funciton update and delete 
+ * update 
+ * delete
+ 
