@@ -22,12 +22,18 @@ It helps you handle MySQL databases where you do not have to write any query you
   * like
   * notLike
   
-  ### The Functions Used To Add Where To Query 
+### The Functions Used To Add Where To Query 
+
+  * where
+  * whereNot
+  * orWhere
+  * andWhere
+  * whereIn
+  * whereNotIn
+  * groupStart
+  * groupEnd
+  * groupStartAnd
+  * groupStartOr
   
-  The Funcitons Following Used with Query Select , update and delete
-  * select
-  * form
-  * selectMax
-  * selectMin
-  * selectAvg
-  * selectSum
+<h3>Not</h3> : it functions Used with Query Select , update and delete <br>
+
