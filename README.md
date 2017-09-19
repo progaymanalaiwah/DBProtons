@@ -49,6 +49,10 @@ It helps you handle MySQL databases where you do not have to write any query you
  ### Funciton update and delete 
   * update 
   * delete
+  
+ ### Funciton esc
+  * escString
+  * escCode
 
 ## Installation
  * Dwonlaod Library DBProtons [Download](https://github.com/progaymanalaiwah/DBProtons/) <br>
